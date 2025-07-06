@@ -4,10 +4,10 @@ import datetime
 
 # 配置信息
 ran = random.randint(6000, 8000)  # 设置随机步数范围
-name = '2826498343@qq.com'  # 账号
-pwd = 'afeng1314520'  # 密码
+name = 'xxxxx'  # 账号
+pwd = 'xxxxxx'  # 密码
 num = None  # 需要刷的步数,如果为空则使用随机步数
-p_token = '0f01b0769cc44560a5f942803a542526'  # 推送Token
+p_token = '0f01b0769cc44560a5f942803axxxx'  # 推送Token
 
 # 确定步数
 if not num:
