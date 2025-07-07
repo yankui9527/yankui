@@ -3,9 +3,9 @@
 
 
 
-抖音：@yankuii
-
-
 免责声明：
 
 本仓库代码仅用于学习交流，请勿用于商业或非法用途。因使用本代码造成的任何后果，本人概不负责。
+
+抖音：@yankuii
+![3369c554947337f8448772b42885075](https://github.com/user-attachments/assets/8244ff45-c4af-4749-95d4-95e0ba3fb911)
